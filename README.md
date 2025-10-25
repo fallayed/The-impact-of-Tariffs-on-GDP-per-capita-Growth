@@ -48,3 +48,15 @@ from sklearn.metrics import (
 # Data used on the Analysis
 [US_Economy.csv](https://github.com/user-attachments/files/23139008/US_Economy.csv)
 
+# Notebook used in the Analysis
+
+http://localhost:8892/notebooks/Desktop/Udacity/Project%201/The%20impact%20of%20Tariffs%20on%20the%20US%20economy.ipynb
+
+#  Summary of the results
+
+The analysis examines the multifaceted impact of tariffs on the U.S. economy, particularly focusing on how they influence GDP per capita growth, the labor market, and the intricate relationship between inflation and economic expansion. It suggests that tariffs have an indirect influence on GDP per capita growth through their effects on inflation and unemployment. While the direct impact of tariffs on the labor market appears limited, they may indirectly affect it through unemployment rates. Furthermore, the analysis underscores the notable correlation between inflation and GDP per capita growth, with inflation playing a significant role in shaping consumer spending and, consequently, the overall economic landscape.
+
+# Acknowledgements
+ Data Credit: https://databank.worldbank.org/
+ 
+ License: Anancoda Jupyter Notebook
